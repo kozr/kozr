@@ -1,2 +1,1 @@
-# Hello, it's me.
-These are my code
+# Hello, it's me Nick!
