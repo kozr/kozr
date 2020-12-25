@@ -13,6 +13,7 @@ I'm a computer science student at UBC. In my spare time, I like to fail at fishi
 ## ⚡️ My recent programming status
 <!--START_SECTION:waka-->
 ```text
+In the past 7 days...
 JSX          14 hrs 17 mins  ███████▓░░░░░░░░░░░░░░░░░   30.35 % 
 JavaScript   10 hrs 21 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.00 % 
 Java         10 hrs 2 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.32 % 
