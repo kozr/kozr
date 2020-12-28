@@ -13,13 +13,13 @@ I'm a computer science student at UBC. In my spare time, I like to fail at fishi
 ## ⚡️ My recent programming status
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2020 - 26 December, 2020
+Week: 20 December, 2020 - 27 December, 2020
 
-Java         14 hrs 50 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.12 % 
-JSX          11 hrs 49 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.82 % 
-JavaScript   9 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.20 % 
-TypeScript   8 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-JSON         3 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Java         17 hrs 17 mins  ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+TypeScript   12 hrs 3 mins   █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+JSX          9 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+JavaScript   8 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+JSON         4 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 ```
 <!--END_SECTION:waka-->
 
