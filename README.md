@@ -6,7 +6,7 @@ I'm a computer science student at UBC. In my spare time, I like to fail at fishi
 ## What I've been doing
 🔭 I’m currently working on [monorepo](https://github.com/nwplus/monorepo)
 
-📖 Reading books to prep for interviews
+📖 Reading some books
 
 💻 Volunteering as an External Dev Director at [nwPlus](https://www.facebook.com/nwplusubc/)
 
