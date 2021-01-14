@@ -15,9 +15,11 @@ I'm a computer science student at UBC. In my spare time, I like to fail at fishi
 ```text
 Week: 06 January, 2021 - 13 January, 2021
 
-JavaScript   42 mins         ████████████▓░░░░░░░░░░░░   51.26 % 
-JSX          38 mins         ███████████▓░░░░░░░░░░░░░   47.02 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+TypeScript   55 mins         █████████▓░░░░░░░░░░░░░░░   39.21 % 
+JavaScript   42 mins         ███████▒░░░░░░░░░░░░░░░░░   29.57 % 
+JSX          38 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.06 % 
+JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 <!--END_SECTION:waka-->
 
