@@ -13,7 +13,7 @@ I'm a computer science student at UBC. In my spare time, I like to fail at fishi
 ## ⚡️ My recent programming status
 <!--START_SECTION:waka-->
 ```text
-Week: 07 January, 2021 - 14 January, 2021
+Week: 08 January, 2021 - 15 January, 2021
 
 TypeScript   4 hrs 50 mins   ████████████████▒░░░░░░░░   65.04 % 
 Other        1 hr 11 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
