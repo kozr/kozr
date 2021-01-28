@@ -1,7 +1,7 @@
 
 # Hello, it's me Nick! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a computer science student at UBC. In my spare time, I often try to fail at fishing. If you want to chat with me, connect with a message on [LinkedIn](https://www.linkedin.com/in/nicholas-wong-a0a51510a/).
+I'm a 3rd year computer science student at UBC. In my spare time, I like to blow my time and money in a hobby called fishing. If you want to chat with me, connect with a message on [LinkedIn](https://www.linkedin.com/in/nicholas-wong-a0a51510a/).
 
 ## What I've been doing
 🔭 I’m currently working on [monorepo](https://github.com/nwplus/monorepo)
