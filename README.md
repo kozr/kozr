@@ -13,13 +13,13 @@ I'm a 3rd year computer science student at UBC. In my spare time, I like to blow
 ## ⚡️ My recent programming status
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2021 - 15 February, 2021
+Week: 09 February, 2021 - 16 February, 2021
 
-JSX          8 hrs 21 mins   ███████████░░░░░░░░░░░░░░   44.06 % 
-Java         4 hrs 22 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.11 % 
-TypeScript   2 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-JavaScript   1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Other        50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+JSX          4 hrs 36 mins   █████████▒░░░░░░░░░░░░░░░   37.23 % 
+Java         4 hrs 22 mins   █████████░░░░░░░░░░░░░░░░   35.34 % 
+JavaScript   1 hr 49 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+TypeScript   51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+JSON         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 ```
 <!--END_SECTION:waka-->
 
