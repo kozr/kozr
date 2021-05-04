@@ -3,13 +3,6 @@
 
 I'm a 3rd year computer science student at UBC. In my spare time, I like to blow my time and money in a hobby called fishing. If you want to chat with me, feel free to connect with a message on [LinkedIn](https://www.linkedin.com/in/nicholas-wong-a0a51510a/).
 
-## What I've been doing
-🔭 I’m currently working on [monorepo](https://github.com/nwplus/monorepo)
-
-📖 Reading some books
-
-💻 Volunteering as an External Dev Director at [nwPlus](https://www.facebook.com/nwplusubc/)
-
 ## ⚡️ My recent programming status
 <!--START_SECTION:waka-->
 ```text
