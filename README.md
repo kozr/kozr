@@ -8,11 +8,11 @@ I'm a 3rd year computer science student at UBC. In my spare time, I like to blow
 ```text
 Week: 28 April, 2021 - 05 May, 2021
 
-Ruby         6 hrs 17 mins   ███████████████░░░░░░░░░░   59.66 % 
-JavaScript   1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-YAML         55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Markdown     47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Other        32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Ruby         13 hrs 13 mins  █████████████████░░░░░░░░   67.64 % 
+Markdown     2 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+JavaScript   1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+YAML         55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Other        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 ```
 <!--END_SECTION:waka-->
 
