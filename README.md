@@ -6,7 +6,7 @@ I'm a 3rd year computer science student at UBC. In my spare time, I like to blow
 ## ⚡️ My recent programming status
 <!--START_SECTION:waka-->
 ```text
-Week: 28 April, 2021 - 05 May, 2021
+Week: 29 April, 2021 - 06 May, 2021
 
 Ruby         13 hrs 13 mins  █████████████████░░░░░░░░   67.64 % 
 Markdown     2 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 % 
