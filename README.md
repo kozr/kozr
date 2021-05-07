@@ -15,13 +15,3 @@ YAML         55 mins         ▓░░░░░░░░░░░░░░░░
 Other        32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 <!--END_SECTION:waka-->
-
-
-
-## 🔧 Technologies & Tools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📈 GitHub stats
-<a href="https://github.com/kozr/kozr">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kozr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nick's GitHub Stats" />
-</a>
-<a href="https://github.com/kozr/kozr">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kozr&show_icons=true&line_height=27&&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nick's GitHub Stats" />
-</a>
