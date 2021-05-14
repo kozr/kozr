@@ -6,12 +6,12 @@ I'm a 3rd year computer science student at UBC. In my spare time, I like to blow
 ## ⚡️ What I've been spending my time on in my IDEs
 <!--START_SECTION:waka-->
 ```text
-Week: 05 May, 2021 - 12 May, 2021
+Week: 06 May, 2021 - 13 May, 2021
 
-Ruby           24 hrs 18 mins  ████████████████▒░░░░░░░░   65.69 % 
-Markdown       5 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-CoffeeScript   2 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-ERB            1 hr 56 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-JavaScript     1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Ruby           22 hrs 19 mins  ███████████████▒░░░░░░░░░   61.89 % 
+Markdown       4 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+CoffeeScript   2 hrs 41 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Go             2 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+ERB            1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 ```
 <!--END_SECTION:waka-->
