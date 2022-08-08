@@ -1,1 +1,1 @@
-original word
+replaced word
